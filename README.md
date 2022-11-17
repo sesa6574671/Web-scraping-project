@@ -1,8 +1,8 @@
 # Comparativa Portátiles El Corte Inglés
 
 Autores:
-  Alicia Amores Sánchez
-  Carlos Núñez Arilla
+- Alicia Amores Sánchez
+- Carlos Núñez Arilla
   
 En este repositorio podéis ver los siguientes archivos/carpetas:
 - memoria.pdf: Contiene las respuestas a los apartados 1 a 11 del proyecto
