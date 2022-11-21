@@ -43,4 +43,4 @@ while(contador<18):
 df=pd.DataFrame(elementos, columns=['Nombre', 'Procesador', 'RAM', 'Disco Duro', 'Pantalla', 'SO', 'Precio'])
 df_8=pd.DataFrame(elementos_8, columns=['Nombre', 'Procesador', 'RAM', 'Disco Duro', 'Tarjeta Grafica', 'Pantalla', 'SO', 'Precio'])
 df_final = pd.concat([df, df_8])
-df_final.to_csv('dataframe.csv',index=False, encoding='iso8859-15')
+df_final.to_csv('dataframe.csv',index=False, encoding='utf-8')
